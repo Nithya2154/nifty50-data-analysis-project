@@ -172,7 +172,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Vinodhini**
+**Nithyanantham G**
 
 * 💡 Skills: Python, Data Analysis, Power BI, SQL, Streamlit
 * 📊 Passionate about Data & Stock Market Analytics
